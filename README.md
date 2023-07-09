@@ -24,6 +24,7 @@ To be uploaded ...
 - Mock, Mockito, JUnit
 - Deploy with CI/CD
 - Docker compose
+- Spring Security
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
